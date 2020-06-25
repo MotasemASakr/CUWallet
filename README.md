@@ -1,2 +1,3 @@
 # CUWallet
-CUWallet for sending and recieving payments
+ CUWallet is online payment portal for sending and recieving payments developed during HackCU. 
+ 
